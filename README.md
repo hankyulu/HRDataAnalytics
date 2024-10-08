@@ -1,4 +1,6 @@
-# HRDataAnalystics
+# HR-Dashboard-MySQL-Power BI
+![image](https://github.com/user-attachments/assets/bd14133c-8357-4bd1-9855-b1a385b82f4c)
+
 [HR Project.pdf](https://github.com/user-attachments/files/17296075/HR.Project.pdf)
 
 # Data Used
