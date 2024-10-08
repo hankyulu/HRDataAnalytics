@@ -28,7 +28,7 @@ Data Visualization - Power BI
 
 # Summary of Findings
 * There are more male employees than female employees.
-* White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
+* The White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
 * The youngest employee is 22 years old and the oldest is 58 years old.
 * Five age groups were created (18-24, 25-34, 35-44, 45-54, 55-64). A large number of employees were between 25-34 followed by 35-44, while the smallest group was 55-64.
 * About 75% of employees work at the headquarters and 25% work remotely. 
